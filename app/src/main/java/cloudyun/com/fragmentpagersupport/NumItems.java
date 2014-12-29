@@ -5,5 +5,5 @@ package cloudyun.com.fragmentpagersupport;
  */
 public class NumItems {
 
-    public static int NUM_ITEMS = 10;
+    public static int NUM_ITEMS = 5;
 }
